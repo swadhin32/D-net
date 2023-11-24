@@ -1,0 +1,7 @@
+{
+    "mongoURI" : "mongodb+srv://swadhin:123@devconnector.lwse3xd.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "7673c4bf17edca3bde5f",
+    "githubSecret": "ad2007a1fd5c288fa47eb2213d74678033fcf1f7",
+    "githubToken":"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"
+}
